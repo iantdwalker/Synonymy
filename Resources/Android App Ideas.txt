@@ -1,0 +1,21 @@
+android app ideas:
+
+1) 4 pics - what is the link between them? Insert a word with letter clues.
+
+e.g Freddie Mercury, Amy Winehouse, Kurt Cobain, Ian Curtis
+=deceased musicians (hard) or deceased (easy)
+
+apple, pear, grape, melon 
+=fruit (easy)
+
+---
+
+2) One picture - two or three choices to describe the picture. User must insert third or fourth choice that fits the letters
+
+e.g picture of a cat:
+
+cat
+pet
+animal
+feline
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General -->
+    <string name="app_name">Synonymy!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- MainActivity -->
+    <string name="mainActivity_welcome">Welcome to Synonymy!</string>
+    <string name="mainActivity_buttonStartGame">Start Game</string>
+    <string name="mainActivity_buttonSettings">Settings</string>
+    
+    <!-- GameActivity -->
+    <string name="title_activity_game">Synonymy!</string>	        
+</resources>

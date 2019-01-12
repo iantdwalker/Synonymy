@@ -1,0 +1,16 @@
+the higher the weight, the higher the importance.
+the more important fields are allowed more space
+default is 0
+
+To create a linear layout in which each child uses the same amount of space on the screen, set the android:layout_height of each view to "0dp" (for a vertical layout) or the android:layout_width of each view to "0dp" (for a horizontal layout). Then set the android:layout_weight of each view to "1".
+
+
+row1-score-10%
+row2-image-40%
+row3-word1-10%
+row4-word2-10%
+row5-word3-10%
+row6-letters1-10%
+row7-lettters2-10%
+
+http://developer.android.com/guide/topics/ui/layout/linear.html

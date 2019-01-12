@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MainActivity -->
+    <color name="lightskyblue">#87cefa</color>
+    
+    <!-- GameActivity -->
+    <color name="customorange">#ffaa11</color>
+    <color name="customblue">#1BE0C6</color>
+    <color name="selectedWordPanel">#1937BE</color>
+</resources>

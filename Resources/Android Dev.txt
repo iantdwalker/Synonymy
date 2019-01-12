@@ -1,0 +1,5 @@
+Switch between phone/SD card storage as default:
+
+http://www.howtogeek.com/114667/how-to-install-android-apps-to-the-sd-card-by-default-move-almost-any-app-to-the-sd-card/
+
+http://developer.android.com/training/basics/firstapp/running-app.html
